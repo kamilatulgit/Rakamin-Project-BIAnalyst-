@@ -23,6 +23,8 @@ https://lookerstudio.google.com/s/uLUjV0JaB1I
 
 
 ## Insigth
+To boost sales of our marketing-focused Training Videos and eBooks, we need to do more research to find out what popular topics people are interested in that we haven't covered yet. The information gathered from this research will guide us in creating new Training Videos and eBooks. It's also important to ask our customers for their feedback to identify what we can improve in our products.
 
+We should consider offering special deals that bundle two types of products together at a discounted price. For the Training Videos, customers could receive a 10-20% discount when they buy Training Videos along with Blueprints or Robots. For eBooks, we might offer a 20-30% discount when they purchase eBooks together with Blueprints or Drone Kits. Also, using social media to promote these bundle deals will help attract more potential customers.
 
 
